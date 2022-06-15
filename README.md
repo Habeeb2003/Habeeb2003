@@ -9,6 +9,11 @@ Here are some ideas to get you started:
   * C#
   * C++
   * C
+  * Typescricpt
+  * React
+  * Angular
+  * Vue
+  * jquery
 
 - 🔭 I’m currently working on working on a full youtube clone website
 - 👯 I’m looking to collaborate on available related to my skills
