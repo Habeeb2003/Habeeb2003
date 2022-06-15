@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on available related to my skills
 - 📫 How to reach me: 
   * twitter : twitter.com/TawaliuHabeeb
+  * email : tawaliuwilliams@gmail.com
 - ⚡ Fun fact: 
   * hobby: coding
