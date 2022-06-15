@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on working on a full youtube clone website
 - 👯 I’m looking to collaborate on available related to my skills
-- 💬 Ask me about ...
 - 📫 How to reach me: 
   * twitter : twitter.com/TawaliuHabeeb
 - ⚡ Fun fact: 
