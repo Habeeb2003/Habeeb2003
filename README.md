@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-**Habeeb2003/Habeeb2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👋 Hi, I'm Tawaliu Habeeb
 - ✍ I have worked on the following programming language and have made projects with them
   * Javascript
   * C#
   * C++
   * C
-  * Typescricpt
+  * Typescript
   * React
   * Angular
   * Vue
